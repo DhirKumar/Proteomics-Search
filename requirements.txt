@@ -1,0 +1,18 @@
+# MS/MS Peptide Identification Pipeline — Python dependencies
+# Install with: pip install -r requirements.txt
+
+# Core proteomics
+pyteomics>=4.7.0
+biopython>=1.81
+
+# Data & numerics
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Dashboard & visualisation
+dash>=2.14.0
+plotly>=5.18.0
+
+# Networking & utilities
+requests>=2.31.0
+tqdm>=4.66.0
